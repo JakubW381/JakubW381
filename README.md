@@ -65,7 +65,7 @@ Project-driven Software Engineer deeply rooted in the JVM ecosystem, specializin
 #### AI-Integrated Real-Time Chat
 *   **Description:** High-performance backend supporting real-time P2P and group messaging optimized for high concurrency.
 *   **Architecture & Features:** Built via WebSockets for immediate data synchronization, integrating local LLM instances processing concurrent AI stream responses through system-level prompt engineering.
-*   **Tech Stack:** Kotlin, Spring Boot, WebSockets, Ollama LLM, Coroutines.
+*   **Tech Stack:** Java, Kotlin, KMP, Spring Boot, WebSockets, Ollama LLM, Coroutines.
 
 ---
 
