@@ -1,4 +1,4 @@
-# Jakub Wolowiec
+# Jakub Wołowiec
 
 ### Backend JVM Developer | Distributed Systems & SecOps
 
