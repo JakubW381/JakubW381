@@ -52,6 +52,13 @@ Project-driven Software Engineer deeply rooted in the JVM ecosystem, specializin
 *   **Architecture & Features:** Implemented a secure API Gateway acting as a reverse proxy for traffic filtering, an asynchronous notification engine utilizing Apache Kafka, and a comprehensive monitoring dashboard.
 *   **Tech Stack:** Java, Spring Boot (Microservices), Spring Cloud Gateway, Apache Kafka, PostgreSQL, Docker, Prometheus, Grafana.
 
+#### Advertisement Recommendation System
+*  **Description:** A microservice-based advertisement recommendation platform focused on scalable recommendation delivery and event-driven impression processing.
+*  **Architecture & Features:** Implemented Hexagonal Architecture, DDD and CQRS, integrated gRPC for synchronous service communication, Kafka and Redis for asynchronous impression aggregation, JWT-based authentication with Spring Security, and distributed tracing using OpenTelemetry and Jaeger.
+*  **Tech Stack:** Java, Spring Boot 4, gRPC, Kafka, Redis, PostgreSQL, Spring Security, JWT, OpenTelemetry, Jaeger, Resilience4j, Docker.
+
+
+
 #### Personal Finance Aggregation & AI Platform
 *   **Description:** A polyglot microservice platform utilizing high-performance inter-service communication and enterprise-grade security pipelines.
 *   **Architecture & Features:** Integrated gRPC/Protobuf for internal communication, implemented an auth pipeline using JWT cookies, JWKS validation, and RSA-signed tokens, and built a Scala-based analytics engine alongside a Kotlin/Ktor AI assistant.
